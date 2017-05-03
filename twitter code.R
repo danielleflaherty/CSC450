@@ -2,11 +2,11 @@ setwd("/Users/dani/Desktop/senior research/")
 
 ### TO DO: set tweetTable to NULL the first time
 
+# I added a line here
 
 ## run the next line the first time (choose 1)
 tweetTable1 = NULL
 #tweetTable2 = NULL
-#tweetTable3 = NULL
 
 # if not the first time, run the statement below (choose 1)
 load("tweetTable1.RData")
